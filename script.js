@@ -185,7 +185,7 @@ $(document).ready(function() {
         { x: 68, y: 1, github: null },
         { x: 69, y: 1, github: null },
         { x: 70, y: 1, github: null },
-        { x: 71, y: 1, github: null },
+        { x: 71, y: 1, github: "bojanrajkovic" },
         { x: 72, y: 1, github: null },
         { x: 73, y: 1, github: null },
         { x: 74, y: 1, github: null },
