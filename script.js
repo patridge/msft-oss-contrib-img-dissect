@@ -166,7 +166,7 @@ $(document).ready(function() {
         { x: 49, y: 1, github: null },
         { x: 50, y: 1, github: null },
         { x: 51, y: 1, github: null },
-        { x: 52, y: 1, github: null },
+        { x: 52, y: 1, github: "Therzok" },
         { x: 53, y: 1, github: null },
         { x: 54, y: 1, github: null },
         { x: 55, y: 1, github: null },
