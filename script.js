@@ -2772,7 +2772,7 @@ $(document).ready(function() {
         { x: 33, y: 24, github: null },
         { x: 34, y: 24, github: null },
         { x: 35, y: 24, github: null },
-        { x: 36, y: 24, github: null },
+        { x: 36, y: 24, github: "jbevain" },
         { x: 37, y: 24, github: null },
         { x: 38, y: 24, github: null },
         { x: 39, y: 24, github: null },
