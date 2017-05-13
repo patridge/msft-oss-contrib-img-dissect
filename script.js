@@ -2438,7 +2438,7 @@ $(document).ready(function() {
         { x: 41, y: 21, github: null },
         { x: 42, y: 21, github: null },
         { x: 43, y: 21, github: null },
-        { x: 44, y: 21, github: null },
+        { x: 44, y: 21, github: "kumpera" },
         { x: 45, y: 21, github: null },
         { x: 46, y: 21, github: null },
         { x: 47, y: 21, github: null },
