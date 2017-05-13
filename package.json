@@ -1,0 +1,23 @@
+{
+  "name": "msft-oss-contrib-img-dissect",
+  "version": "1.0.0",
+  "description": "I want to see how many GitHub users we can identify, collectively.",
+  "main": "script.js",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patridge/msft-oss-contrib-img-dissect.git"
+  },
+  "author": "Adam Patridge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/patridge/msft-oss-contrib-img-dissect/issues"
+  },
+  "homepage": "https://github.com/patridge/msft-oss-contrib-img-dissect#readme"
+}
