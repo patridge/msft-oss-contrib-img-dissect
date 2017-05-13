@@ -767,7 +767,7 @@ $(document).ready(function() {
         { x: 80, y: 6, github: null },
         { x: 81, y: 6, github: null },
         { x: 82, y: 6, github: null },
-        { x: 83, y: 6, github: null },
+        { x: 83, y: 6, github: "radical" },
         { x: 84, y: 6, github: null },
         { x: 85, y: 6, github: null },
         { x: 86, y: 6, github: null },
