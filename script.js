@@ -1354,7 +1354,7 @@ $(document).ready(function() {
         { x: 97, y: 11, github: null },
         { x: 98, y: 11, github: null },
         { x: 99, y: 11, github: null },
-        { x: 100, y: 11, github: null },
+        { x: 100, y: 11, github: "rodrmoya" },
         { x: 101, y: 11, github: null },
         { x: 102, y: 11, github: null },
         { x: 103, y: 11, github: null },
