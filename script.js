@@ -131,7 +131,7 @@ $(document).ready(function() {
         { x: 14, y: 1, github: null },
         { x: 15, y: 1, github: null },
         { x: 16, y: 1, github: null },
-        { x: 17, y: 1, github: null },
+        { x: 17, y: 1, github: "dvdsgl" },
         { x: 18, y: 1, github: null },
         { x: 19, y: 1, github: null },
         { x: 20, y: 1, github: null },
