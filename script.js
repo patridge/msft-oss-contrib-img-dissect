@@ -693,7 +693,7 @@ $(document).ready(function() {
         { x: 6, y: 6, github: null },
         { x: 7, y: 6, github: null },
         { x: 8, y: 6, github: null },
-        { x: 9, y: 6, github: null },
+        { x: 9, y: 6, github: "shalsey" },
         { x: 10, y: 6, github: null },
         { x: 11, y: 6, github: null },
         { x: 12, y: 6, github: null },
