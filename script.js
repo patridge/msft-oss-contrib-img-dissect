@@ -215,7 +215,7 @@ $(document).ready(function() {
         { x: 98, y: 1, github: null },
         { x: 99, y: 1, github: null },
         { x: 100, y: 1, github: null },
-        { x: 101, y: 1, github: null },
+        { x: 101, y: 1, github: "ethomson" },
         { x: 102, y: 1, github: null },
         { x: 103, y: 1, github: null },
         { x: 104, y: 1, github: null },
