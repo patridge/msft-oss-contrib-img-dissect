@@ -2526,7 +2526,7 @@ $(document).ready(function() {
         { x: 15, y: 22, github: null },
         { x: 16, y: 22, github: null },
         { x: 17, y: 22, github: null },
-        { x: 18, y: 22, github: null },
+        { x: 18, y: 22, github: "sailro" },
         { x: 19, y: 22, github: null },
         { x: 20, y: 22, github: null },
         { x: 21, y: 22, github: null },
