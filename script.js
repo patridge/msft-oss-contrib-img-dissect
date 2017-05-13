@@ -2584,7 +2584,7 @@ $(document).ready(function() {
         { x: 73, y: 22, github: null },
         { x: 74, y: 22, github: null },
         { x: 75, y: 22, github: null },
-        { x: 76, y: 22, github: null },
+        { x: 76, y: 22, github: "charlespetzold" },
         { x: 77, y: 22, github: null },
         { x: 78, y: 22, github: null },
         { x: 79, y: 22, github: null },
