@@ -695,7 +695,7 @@ $(document).ready(function() {
         { x: 8, y: 6, github: null },
         { x: 9, y: 6, github: null },
         { x: 10, y: 6, github: null },
-        { x: 11, y: 6, github: null },
+        { x: 11, y: 6, github: "sharwell" },
         { x: 12, y: 6, github: null },
         { x: 13, y: 6, github: null },
         { x: 14, y: 6, github: null },
