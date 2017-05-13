@@ -853,7 +853,7 @@ $(document).ready(function() {
         { x: 52, y: 7, github: null },
         { x: 53, y: 7, github: null },
         { x: 54, y: 7, github: null },
-        { x: 55, y: 7, github: null },
+        { x: 55, y: 7, github: "sandyarmstrong" },
         { x: 56, y: 7, github: null },
         { x: 57, y: 7, github: "jonpryor" },
         { x: 58, y: 7, github: null },
