@@ -2952,7 +2952,7 @@ $(document).ready(function() {
         { x: 99, y: 25, github: null },
         { x: 100, y: 25, github: null },
         { x: 101, y: 25, github: null },
-        { x: 102, y: 25, github: null },
+        { x: 102, y: 25, github: "ranterle" },
         { x: 103, y: 25, github: null },
         { x: 104, y: 25, github: null },
         { x: 105, y: 25, github: null },
