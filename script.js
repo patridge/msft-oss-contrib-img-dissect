@@ -2595,7 +2595,7 @@ $(document).ready(function() {
         { x: 84, y: 22, github: null },
         { x: 85, y: 22, github: null },
         { x: 86, y: 22, github: null },
-        { x: 87, y: 22, github: null },
+        { x: 87, y: 22, github: "nosami" },
         { x: 88, y: 22, github: null },
         { x: 89, y: 22, github: null },
         { x: 90, y: 22, github: null },
