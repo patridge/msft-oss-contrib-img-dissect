@@ -41,7 +41,7 @@ $(document).ready(function() {
         { x: 38, y: 0, github: null },
         { x: 39, y: 0, github: null },
         { x: 40, y: 0, github: null },
-        { x: 41, y: 0, github: null },
+        { x: 41, y: 0, github: "hbons" },
         { x: 42, y: 0, github: null },
         { x: 43, y: 0, github: null },
         { x: 44, y: 0, github: null },
