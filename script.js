@@ -1971,7 +1971,7 @@ $(document).ready(function() {
         { x: 30, y: 17, github: null },
         { x: 31, y: 17, github: null },
         { x: 32, y: 17, github: null },
-        { x: 33, y: 17, github: null },
+        { x: 33, y: 17, github: "joj" },
         { x: 34, y: 17, github: null },
         { x: 35, y: 17, github: null },
         { x: 36, y: 17, github: null },
