@@ -1529,7 +1529,7 @@ $(document).ready(function() {
         { x: 44, y: 13, github: null },
         { x: 45, y: 13, github: null },
         { x: 46, y: 13, github: null },
-        { x: 47, y: 13, github: null },
+        { x: 47, y: 13, github: "bratsche" },
         { x: 48, y: 13, github: null },
         { x: 49, y: 13, github: null },
         { x: 50, y: 13, github: null },
