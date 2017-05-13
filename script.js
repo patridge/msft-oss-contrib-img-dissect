@@ -1959,7 +1959,7 @@ $(document).ready(function() {
         { x: 18, y: 17, github: null },
         { x: 19, y: 17, github: null },
         { x: 20, y: 17, github: null },
-        { x: 21, y: 17, github: null },
+        { x: 21, y: 17, github: "kdubau" },
         { x: 22, y: 17, github: null },
         { x: 23, y: 17, github: null },
         { x: 24, y: 17, github: null },
