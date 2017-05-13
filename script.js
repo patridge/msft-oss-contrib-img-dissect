@@ -2606,7 +2606,7 @@ $(document).ready(function() {
         { x: 95, y: 22, github: null },
         { x: 96, y: 22, github: null },
         { x: 97, y: 22, github: null },
-        { x: 98, y: 22, github: null },
+        { x: 98, y: 22, github: "KirillOsenkov" },
         { x: 99, y: 22, github: null },
         { x: 100, y: 22, github: null },
         { x: 101, y: 22, github: null },
