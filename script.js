@@ -2175,7 +2175,7 @@ $(document).ready(function() {
         { x: 6, y: 19, github: null },
         { x: 7, y: 19, github: null },
         { x: 8, y: 19, github: null },
-        { x: 9, y: 19, github: null },
+        { x: 9, y: 19, github: "lumaxis" },
         { x: 10, y: 19, github: null },
         { x: 11, y: 19, github: null },
         { x: 12, y: 19, github: null },
