@@ -89,7 +89,8 @@
 					style: $(n).data('style') || '',
 					html: $(n).data('content') || '',
 					href: $(n).attr('href') || '#',
-					title: n.title || '' // patridge: custom to add title for hover
+					title: n.title || '', // patridge: custom to add title for hover
+					target: n.target || '' // patridge: custom to allow opening to new tab/window
 				});
 				mapElement = setMapElemStyle(mapElement, n.coords);
 				parent.append(mapElement);
@@ -98,14 +99,15 @@
 			/* Iterate through maps array in options object.
 			 * This will create dynamic elements which resembles to map elements for image tag 
 			 * and corresponding image tag doesn't have associated map element
-			 */		
+			 */
 			options.maps.forEach(function (n, i) {
 				mapElement = $("<a>", {
 					class: n.classes || '',
 					style: n.style || '',
 					html: n.content || '',
 					href: n.href || '#',
-					title: n.title || '' // patridge: custom to add title for hover
+					title: n.title || '', // patridge: custom to add title for hover
+					target: n.target || '' // patridge: custom to allow opening to new tab/window
 				});
 				mapElement = setMapElemStyle(mapElement, n.coords);
 				parent.append(mapElement);

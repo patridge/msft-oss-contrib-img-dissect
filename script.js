@@ -3092,12 +3092,12 @@ $(document).ready(function() {
         var coordBottomRightX = (coordTopLeftX + gridCellWidth);
         var coordBottomRightY = (coordTopLeftY + gridCellHeight);
         var coords = coordTopLeftX + "," + coordTopLeftY + "," + coordBottomRightX + "," + coordBottomRightY;
-        var title = "<" + val.x + "," + val.y + ">: @" + (val.github || "???");
+        var title = "<" + val.x + "," + val.y + ">: " + ((val.github && "@" + val.github) || "??? (click to add)");
         // If no GitHub username, offer link directly to the line in this file to edit (+3 offset for JS preamble).
         var href = (val.github && ("https://github.com/" + val.github)) || "https://github.com/patridge/msft-oss-contrib-img-dissect/blob/master/script.js#L" + ((val.y * gridWidthCount) + val.x + sourceOffset);
         var classes = "imgarea" + ((val.github && " found") || "");
         return {
-            coords: coords, classes: classes, title: title, href: href
+            coords: coords, classes: classes, title: title, href: href, target: "_blank"
         };
     });
 
