@@ -1475,7 +1475,7 @@ $(document).ready(function() {
         { x: 104, y: 12, github: null },
         { x: 105, y: 12, github: null },
         { x: 106, y: 12, github: null },
-        { x: 107, y: 12, github: null },
+        { x: 107, y: 12, github: "pjcollins" },
         { x: 108, y: 12, github: null },
         { x: 109, y: 12, github: null },
         { x: 110, y: 12, github: null },
