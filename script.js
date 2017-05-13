@@ -46,7 +46,7 @@ $(document).ready(function() {
         { x: 43, y: 0, github: null },
         { x: 44, y: 0, github: null },
         { x: 45, y: 0, github: null },
-        { x: 46, y: 0, github: null },
+        { x: 46, y: 0, github: "garuma" },
         { x: 47, y: 0, github: null },
         { x: 48, y: 0, github: null },
         { x: 49, y: 0, github: null },
