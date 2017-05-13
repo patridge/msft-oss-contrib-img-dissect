@@ -2007,7 +2007,7 @@ $(document).ready(function() {
         { x: 66, y: 17, github: "nishanil" },
         { x: 67, y: 17, github: null },
         { x: 68, y: 17, github: null },
-        { x: 69, y: 17, github: null },
+        { x: 69, y: 17, github: "pilchie" },
         { x: 70, y: 17, github: "StephaneDelcroix" },
         { x: 71, y: 17, github: null },
         { x: 72, y: 17, github: null },
