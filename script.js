@@ -2339,7 +2339,7 @@ $(document).ready(function() {
         { x: 56, y: 20, github: null },
         { x: 57, y: 20, github: null },
         { x: 58, y: 20, github: null },
-        { x: 59, y: 20, github: null },
+        { x: 59, y: 20, github: "terrajobst" },
         { x: 60, y: 20, github: null },
         { x: 61, y: 20, github: null },
         { x: 62, y: 20, github: null },
