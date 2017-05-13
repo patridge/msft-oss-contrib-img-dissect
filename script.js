@@ -1085,7 +1085,7 @@ $(document).ready(function() {
         { x: 56, y: 9, github: null },
         { x: 57, y: 9, github: null },
         { x: 58, y: 9, github: null },
-        { x: 59, y: 9, github: null },
+        { x: 59, y: 9, github: "kzu" },
         { x: 60, y: 9, github: null },
         { x: 61, y: 9, github: null },
         { x: 62, y: 9, github: null },
