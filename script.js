@@ -1814,7 +1814,7 @@ $(document).ready(function() {
         { x: 101, y: 15, github: null },
         { x: 102, y: 15, github: null },
         { x: 103, y: 15, github: null },
-        { x: 104, y: 15, github: null },
+        { x: 104, y: 15, github: "a2" },
         { x: 105, y: 15, github: null },
         { x: 106, y: 15, github: null },
         { x: 107, y: 15, github: null },
