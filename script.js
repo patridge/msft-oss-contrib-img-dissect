@@ -3084,10 +3084,8 @@ $(document).ready(function() {
     var gridCellWidth = 24.985;
     var gridCellHeight = 24.95;
     var gridWidthCount = 114;
-    // var gridHeightCount = 27;
     var sourceOffset = 3;
 
-    //var squares = _.range(0, 74 * 42);
     var areas = _.map(gridPeople, function (val) {
         var coordTopLeftX = val.x * gridCellWidth;
         var coordTopLeftY = val.y * gridCellHeight;
@@ -3104,11 +3102,4 @@ $(document).ready(function() {
     });
 
     $("#all-the-people").dynamicImageMap({ maps: areas });
-
-    // $('#third-image').dynamicImageMap({
-    //     maps: [ 
-    //         { coords: '6,116,97,184', classes: 'rect', style: 'background: green', content: '<span>Rect</span>', href: '#' },
-    //         { coords: '251,143,47', classes: 'circle', style: 'background: yellow;text-align: center', content: '<span>Circle</span>' }
-    //     ]
-    // });
 });
