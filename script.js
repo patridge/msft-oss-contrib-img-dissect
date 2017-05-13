@@ -1854,7 +1854,7 @@ $(document).ready(function() {
         { x: 27, y: 16, github: null },
         { x: 28, y: 16, github: "DamianEdwards" },
         { x: 29, y: 16, github: null },
-        { x: 30, y: 16, github: null },
+        { x: 30, y: 16, github: "rolfbjarne" },
         { x: 31, y: 16, github: null },
         { x: 32, y: 16, github: null },
         { x: 33, y: 16, github: null },
