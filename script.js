@@ -2842,7 +2842,7 @@ $(document).ready(function() {
         { x: 103, y: 24, github: null },
         { x: 104, y: 24, github: null },
         { x: 105, y: 24, github: null },
-        { x: 106, y: 24, github: null },
+        { x: 106, y: 24, github: "IzikLisbon" },
         { x: 107, y: 24, github: null },
         { x: 108, y: 24, github: null },
         { x: 109, y: 24, github: null },
