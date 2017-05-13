@@ -2052,7 +2052,7 @@ $(document).ready(function() {
         { x: 111, y: 17, github: null },
         { x: 112, y: 17, github: null },
         { x: 113, y: 17, github: null },
-        { x: 0, y: 18, github: null },
+        { x: 0, y: 18, github: "derpixeldan" },
         { x: 1, y: 18, github: null },
         { x: 2, y: 18, github: null },
         { x: 3, y: 18, github: null },
