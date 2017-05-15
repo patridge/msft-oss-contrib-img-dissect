@@ -1603,7 +1603,7 @@ $(document).ready(function() {
         { x: 4, y: 14, github: null },
         { x: 5, y: 14, github: null },
         { x: 6, y: 14, github: null },
-        { x: 7, y: 14, github: null },
+        { x: 7, y: 14, github: "ghurlman" },
         { x: 8, y: 14, github: null },
         { x: 9, y: 14, github: null },
         { x: 10, y: 14, github: null },
