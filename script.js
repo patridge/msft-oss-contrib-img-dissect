@@ -759,7 +759,7 @@ $(document).ready(function() {
         { x: 72, y: 6, github: null },
         { x: 73, y: 6, github: null },
         { x: 74, y: 6, github: null },
-        { x: 75, y: 6, github: null },
+        { x: 75, y: 6, github: "dsplaisted" },
         { x: 76, y: 6, github: null },
         { x: 77, y: 6, github: null },
         { x: 78, y: 6, github: null },
