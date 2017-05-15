@@ -2832,7 +2832,7 @@ $(document).ready(function() {
         { x: 93, y: 24, github: null },
         { x: 94, y: 24, github: null },
         { x: 95, y: 24, github: null },
-        { x: 96, y: 24, github: null },
+        { x: 96, y: 24, github: "mgmclemore" },
         { x: 97, y: 24, github: null },
         { x: 98, y: 24, github: null },
         { x: 99, y: 24, github: null },
