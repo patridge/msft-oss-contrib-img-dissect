@@ -8,7 +8,7 @@ $(document).ready(function() {
         { x: 5, y: 0, github: null },
         { x: 6, y: 0, github: null },
         { x: 7, y: 0, github: null },
-        { x: 8, y: 0, github: null },
+        { x: 8, y: 0, github: "jennifermarsman" },
         { x: 9, y: 0, github: null },
         { x: 10, y: 0, github: null },
         { x: 11, y: 0, github: null },
