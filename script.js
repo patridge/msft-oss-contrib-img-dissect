@@ -1942,7 +1942,7 @@ $(document).ready(function() {
         { x: 1, y: 17, github: null },
         { x: 2, y: 17, github: null },
         { x: 3, y: 17, github: null },
-        { x: 4, y: 17, github: jashook },
+        { x: 4, y: 17, github: "jashook" },
         { x: 5, y: 17, github: null },
         { x: 6, y: 17, github: null },
         { x: 7, y: 17, github: null },
