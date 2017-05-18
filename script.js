@@ -10,7 +10,7 @@ $(document).ready(function() {
         { x: 7, y: 0, github: null },
         { x: 8, y: 0, github: "jennifermarsman" },
         { x: 9, y: 0, github: null },
-        { x: 10, y: 0, github: null },
+        { x: 10, y: 0, github: "mjrousos" },
         { x: 11, y: 0, github: null },
         { x: 12, y: 0, github: null },
         { x: 13, y: 0, github: null },
