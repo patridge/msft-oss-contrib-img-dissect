@@ -2289,7 +2289,7 @@ $(document).ready(function() {
         { x: 6, y: 20, github: null },
         { x: 7, y: 20, github: null },
         { x: 8, y: 20, github: null },
-        { x: 9, y: 20, github: null },
+        { x: 9, y: 20, github: "bradygaster" },
         { x: 10, y: 20, github: null },
         { x: 11, y: 20, github: null },
         { x: 12, y: 20, github: null },
