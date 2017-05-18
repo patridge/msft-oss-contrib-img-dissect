@@ -2401,7 +2401,7 @@ $(document).ready(function() {
         { x: 4, y: 21, github: null },
         { x: 5, y: 21, github: null },
         { x: 6, y: 21, github: null },
-        { x: 7, y: 21, github: null },
+        { x: 7, y: 21, github: "jeffsand" },
         { x: 8, y: 21, github: null },
         { x: 9, y: 21, github: null },
         { x: 10, y: 21, github: null },
