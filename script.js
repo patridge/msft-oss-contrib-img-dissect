@@ -1298,7 +1298,7 @@ $(document).ready(function() {
         { x: 41, y: 11, github: null },
         { x: 42, y: 11, github: "mhutch" },
         { x: 43, y: 11, github: null },
-        { x: 44, y: 11, github: null },
+        { x: 44, y: 11, github: "DuncanmaMSFT" },
         { x: 45, y: 11, github: null },
         { x: 46, y: 11, github: null },
         { x: 47, y: 11, github: null },
