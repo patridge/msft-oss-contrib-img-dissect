@@ -23,7 +23,7 @@ $(document).ready(function() {
         { x: 20, y: 0, github: null },
         { x: 21, y: 0, github: null },
         { x: 22, y: 0, github: null },
-        { x: 23, y: 0, github: null },
+        { x: 23, y: 0, github: "conniey" },
         { x: 24, y: 0, github: null },
         { x: 25, y: 0, github: null },
         { x: 26, y: 0, github: null },
