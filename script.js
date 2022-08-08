@@ -270,7 +270,7 @@ $(document).ready(function() {
         { x: 39, y: 2, github: null },
         { x: 40, y: 2, github: null },
         { x: 41, y: 2, github: null },
-        { x: 42, y: 2, github: null },
+        { x: 42, y: 2, github: "bleroy" },
         { x: 43, y: 2, github: null },
         { x: 44, y: 2, github: null },
         { x: 45, y: 2, github: null },
