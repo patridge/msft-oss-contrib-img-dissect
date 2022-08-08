@@ -144,7 +144,7 @@ $(document).ready(function() {
         { x: 27, y: 1, github: null },
         { x: 28, y: 1, github: null },
         { x: 29, y: 1, github: null },
-        { x: 30, y: 1, github: null },
+        { x: 30, y: 1, github: "bobbytreed" },
         { x: 31, y: 1, github: null },
         { x: 32, y: 1, github: null },
         { x: 33, y: 1, github: null },
