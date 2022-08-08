@@ -235,7 +235,7 @@ $(document).ready(function() {
         { x: 4, y: 2, github: null },
         { x: 5, y: 2, github: null },
         { x: 6, y: 2, github: null },
-        { x: 7, y: 2, github: null },
+        { x: 7, y: 2, github: "dsk-2015" },
         { x: 8, y: 2, github: null },
         { x: 9, y: 2, github: null },
         { x: 10, y: 2, github: "DanRigby" },
