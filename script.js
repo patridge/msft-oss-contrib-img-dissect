@@ -136,7 +136,7 @@ $(document).ready(function() {
         { x: 19, y: 1, github: null },
         { x: 20, y: 1, github: null },
         { x: 21, y: 1, github: null },
-        { x: 22, y: 1, github: null },
+        { x: 22, y: 1, github: "topgenorth" },
         { x: 23, y: 1, github: null },
         { x: 24, y: 1, github: null },
         { x: 25, y: 1, github: null },
