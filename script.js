@@ -2285,7 +2285,7 @@ $(document).ready(function() {
         { x: 2, y: 20, github: null },
         { x: 3, y: 20, github: null },
         { x: 4, y: 20, github: null },
-        { x: 5, y: 20, github: null },
+        { x: 5, y: 20, github: "timheuer" },
         { x: 6, y: 20, github: null },
         { x: 7, y: 20, github: null },
         { x: 8, y: 20, github: null },
