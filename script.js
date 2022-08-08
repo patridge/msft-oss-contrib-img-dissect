@@ -2880,7 +2880,7 @@ $(document).ready(function() {
         { x: 27, y: 25, github: null },
         { x: 28, y: 25, github: null },
         { x: 29, y: 25, github: null },
-        { x: 30, y: 25, github: null },
+        { x: 30, y: 25, github: "AndrewJByrne" },
         { x: 31, y: 25, github: null },
         { x: 32, y: 25, github: null },
         { x: 33, y: 25, github: null },
